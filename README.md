@@ -113,6 +113,6 @@ The dataset is sourced directly from **SQL Server** and includes:
 
 ---
 
-[📊 View Dashboard PDF](https://github.com/sadik4li/kabani-fmcg/blob/main/KABANI%20FMCG%20DASHBOARD.pdf)
+[📊 View Dashboard PDF](https://github.com/sadik4li/Kabani-fmcg-top-products/blob/main/Top%205%20Product.pdf)
 
 ---
